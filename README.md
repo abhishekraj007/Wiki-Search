@@ -1,8 +1,8 @@
 # Wiki-Search
  
-Type any valid keyword and app will show the list of results, selecting any item from the list will lead you to the wikipedia page of that item.<br>
+Type any valid keyword and app will generate the list of results, selecting any item from the list will lead you to the wikipedia page of that item.<br><br>
 <a href="http://abhishekraj007.github.io/apps/WikiSearch/">Demo</a>
-<br><br>
+<br>
 Key Feature of this project:
 <br>
 <ul>
