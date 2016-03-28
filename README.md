@@ -7,7 +7,7 @@ Key Feature of this project:
 <br>
 <ul>
 <li>Materialize interface designing</li>
-<li> 100% responsive, no need to make separate app for smartphones</li>
+<li> 100% responsive</li>
 <li>Result will be shown in card format</li>
 <li> Fast Search result</li>
 </ul>
